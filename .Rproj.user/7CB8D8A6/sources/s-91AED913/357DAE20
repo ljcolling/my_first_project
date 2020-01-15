@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2223319586",
+    "hash" : "0",
     "id" : "357DAE20",
-    "lastKnownWriteTime" : 1579073462,
-    "last_content_update" : 1579073462553,
+    "lastKnownWriteTime" : 1579073522,
+    "last_content_update" : 1579073522971,
     "path" : "~/GitHub/r_projects/my_first_project/README.rmd",
     "project_path" : "README.rmd",
     "properties" : {
-        "cursorPosition" : "2,120",
+        "cursorPosition" : "2,133",
         "scrollLine" : "0",
         "tempName" : "Untitled1"
     },
