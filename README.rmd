@@ -1,3 +1,3 @@
 # About this repo 
 
-Launch this repo in binder my clicking here `r containertools::genlink(returntype = "badge")`
+Launch this repo in binder my clicking here `r containertools::genlink("https://github.com/ljcolling/my_first_project", "badge")`
